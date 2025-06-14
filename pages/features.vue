@@ -2,6 +2,12 @@
   <section class="page">
     <h2>What Makes Doka Special</h2>
 
+
+    <div>
+      <h1>Page avec une image</h1>
+      <img src="/landing_office_panic.jpg" alt="My Photo" />
+    </div>
+
     <img class="feature-img" src="https://images.unsplash.com/photo-1581090700227-1e8d1c7f78e0?auto=format&fit=crop&w=800&q=80" alt="Organized workspace" />
 
     <p>
